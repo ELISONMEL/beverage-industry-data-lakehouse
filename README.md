@@ -29,6 +29,8 @@ Construir uma plataforma analítica capaz de demonstrar, na prática, conceitos 
 
 ## 🏗️ Arquitetura
 
+![Arquitetura do Beverage Industry Data Lakehouse](architecture/data-lakehouse-architecture.png)
+
 Fluxo conceitual da solução:
 
 ```text
