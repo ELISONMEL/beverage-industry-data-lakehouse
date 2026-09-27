@@ -1,0 +1,21 @@
+vendedor_id,nome_vendedor,cidade_base,estado,data_admissao,status_vendedor
+1,Dra. Caroline Castro,Correia,AC,2023-08-26,ATIVO
+2,Ravy Cavalcanti,Melo,RS,2025-01-07,INATIVO
+3,João Guilherme da Conceição,Pires da Serra,AM,2020-05-08,ATIVO
+4,Srta. Ana Liz Lima,Porto,MT,2018-03-08,ATIVO
+5,Sr. Thiago Sá,Caldeira,SP,2019-07-06,ATIVO
+6,Ester Cardoso,Barros de Sampaio,AL,2023-12-08,ATIVO
+7,Alícia Vargas,Sousa Alegre,RR,2022-10-22,ATIVO
+8,João Miguel Rios,da Mata,AM,2026-07-04,ATIVO
+9,Renan Nunes,Marques,MA,2020-09-10,INATIVO
+10,Rafael Pinto,Farias,ES,2025-11-21,INATIVO
+11,Srta. Luiza da Cruz,Cunha,DF,2023-05-29,ATIVO
+12,Otávio Viana,Almeida da Prata,PR,2018-03-17,ATIVO
+13,Dr. Mathias Rodrigues,Farias,MS,2019-02-12,INATIVO
+14,Ana Luiza Moraes,Carvalho,AM,2023-07-22,INATIVO
+15,Sr. Bento da Mata,Teixeira Grande,SC,2019-03-20,ATIVO
+16,Sofia Pimenta,Rocha,RO,2022-08-30,ATIVO
+17,Ágatha Costela,Teixeira,MG,2022-03-01,ATIVO
+18,Enzo Gabriel Rezende,Teixeira Paulista,PE,2024-02-21,INATIVO
+19,Kamilly Borges,Azevedo,PA,2025-07-20,ATIVO
+20,Sra. Maria Laura Fogaça,Souza,MA,2018-02-21,ATIVO

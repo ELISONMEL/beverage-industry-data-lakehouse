@@ -1,0 +1,24 @@
+.venv/
+.venv-wsl/
+
+__pycache__/
+*.pyc
+
+.pytest_cache/
+.ruff_cache/
+
+.coverage
+htmlcov/
+
+data/*.csv
+!data/sample/*.csv
+
+data/delta_test/
+data/lakehouse/
+
+.DS_Store
+.idea/
+.vscode/
+
+# Arquivos temporários de editores
+*~

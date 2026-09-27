@@ -1,0 +1,27 @@
+# Configuração do Ruff para o projeto Beverage Industry Data Lakehouse
+
+line-length = 100
+target-version = "py312"
+
+exclude = [
+    ".venv-wsl",
+    ".venv",
+    "venv",
+    "data",
+    "notebooks",
+    ".pytest_cache",
+    "__pycache__",
+]
+
+[lint]
+select = [
+    "E",
+    "F",
+    "I",
+    "UP",
+    "BLE",
+    "DTZ",
+]
+
+[lint.per-file-ignores]
+"scripts/generate_data.py" = ["DTZ001"]

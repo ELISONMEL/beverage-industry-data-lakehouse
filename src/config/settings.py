@@ -1,0 +1,6 @@
+LANDING_PATH = "/mnt/datalake/landing"
+BRONZE_PATH = "/mnt/datalake/bronze"
+SILVER_PATH = "/mnt/datalake/silver"
+GOLD_PATH = "/mnt/datalake/gold"
+QUARANTINE_PATH = "/mnt/datalake/quarantine"
+AUDIT_PATH = "/mnt/datalake/audit"

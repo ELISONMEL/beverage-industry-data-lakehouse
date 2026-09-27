@@ -1,0 +1,24 @@
+Oracle / CSV / JSON
+        |
+        v
+Azure Data Factory
+        |
+        v
+     ADLS Gen2
+        |
+     Landing
+        |
+        v
+      Bronze
+        |
+ Databricks/PySpark
+        |
+   +----+----+
+   |         |
+ Silver   Quarantine
+   |
+   v
+  Gold
+   |
+   v
+Power BI
